@@ -1,13 +1,13 @@
 {
-  "heading": "Jak se liší daň z příjmu fyzických osob v EU27?",
-  "subheading": "V roce 2023 je průměrná efektivní daň z příjmu fyzických osob v Evropské unii 17,3 % (bez sociálních příspěvků)",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Jak se liší daň z příjmu fyzických osob v EU-27?",
+  "subheading": "V roce 2023 činila průměrná efektivní daň z příjmu fyzických osob v Evropské unii 17,3 % (bez sociálních příspěvků)",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "průměrná daň z příjmu fyzických osob",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Efektivní daň z příjmu fyzických osob na základě hrubého výdělku jednotlivce bez dětí, který vydělává 100 % průměrného výdělku",
+  "textNote": "Efektivní daň z příjmu fyzických osob založená na hrubém výdělku svobodné osoby bez dětí, která vydělává 100 % průměrného výdělku",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

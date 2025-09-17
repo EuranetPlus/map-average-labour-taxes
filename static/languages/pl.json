@@ -1,13 +1,13 @@
 {
   "heading": "Jak różni się podatek dochodowy od osób fizycznych w UE27?",
-  "subheading": "W 2023 r. średnia efektywna stawka podatku dochodowego od osób fizycznych w Unii Europejskiej wyniosła 17,3% (bez uwzględnienia składek na ubezpieczenia społeczne)",
+  "subheading": "W 2023 r. średnia efektywna stawka podatku dochodowego od osób fizycznych w Unii Europejskiej wyniosła 17,3% (bez składek na ubezpieczenia społeczne)",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "średni podatek dochodowy od osób fizycznych",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Efektywny podatek dochodowy od osób fizycznych obliczany na podstawie zarobków brutto osoby samotnej bez dzieci, zarabiającej 100% przeciętnych zarobków",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Efektywny podatek dochodowy od osób fizycznych obliczany na podstawie dochodu brutto osoby samotnej bez dzieci, zarabiającej 100% średniego dochodu",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

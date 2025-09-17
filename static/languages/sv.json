@@ -1,13 +1,13 @@
 {
-  "heading": "Hur varierar personlig inkomstskatt i EU27?",
-  "subheading": "År 2023 är den genomsnittliga effektiva personliga inkomstskatten i EU 17,3 % (exklusive sociala avgifter)",
+  "heading": "Hur varierar den personliga inkomstskatten i EU27?",
+  "subheading": "År 2023 är den genomsnittliga effektiva personliga inkomstskatten i Europeiska unionen 17,3 % (exklusive sociala avgifter)",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "genomsnittlig personlig inkomstskatt",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Effektiv personlig inkomstskatt baserad på bruttoinkomsten för en ensamstående person utan barn som tjänar 100 % av den genomsnittliga inkomsten",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Effektiv personlig inkomstskatt baserad på bruttoinkomsten för en ensamstående person utan barn som tjänar 100 % av genomsnittsinkomsten",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

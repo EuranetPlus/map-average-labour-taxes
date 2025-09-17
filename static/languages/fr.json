@@ -6,7 +6,7 @@
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Impôt sur le revenu effectif basé sur les revenus bruts d'une personne seule sans enfant gagnant 100 % du revenu moyen",
+  "textNote": "Impôt sur le revenu effectif des personnes physiques basé sur les revenus bruts d'une personne seule sans enfant gagnant 100 % du revenu moyen",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

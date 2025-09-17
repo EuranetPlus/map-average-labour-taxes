@@ -6,8 +6,8 @@
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Imposta effettiva sul reddito delle persone fisiche basata sui guadagni lordi di una persona single senza figli che guadagna il 100% dei guadagni medi",
+  "textNote": "Imposta sul reddito delle persone fisiche effettiva basata sui guadagni lordi di una persona single senza figli che guadagna il 100% dei guadagni medi",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

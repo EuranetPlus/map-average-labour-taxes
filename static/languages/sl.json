@@ -1,12 +1,12 @@
 {
-  "heading": "Kako se razlikuje dohodnina v EU27?",
-  "subheading": "Leta 2023 je povprečna efektivna dohodnina v Evropski uniji 17,3 % (brez socialnih prispevkov)",
-  "legend1": "Ni podatkov",
-  "tooltip1": "povprečna dohodnina",
+  "heading": "Kako se razlikuje dohodnina v EU-27?",
+  "subheading": "Leta 2023 je povprečna efektivna dohodnina v Evropski uniji znašala 17,3 % (brez socialnih prispevkov)",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "povprečni dohodnini",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Efektivna dohodnina od bruto plače samske osebe brez otrok v višini 100 % povprečne plače",
+  "textNote": "Efektivna dohodnina, ki temelji na bruto zaslužku samske osebe brez otrok, ki zasluži 100 % povprečnega zaslužka",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"

@@ -6,8 +6,8 @@
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Effectieve inkomstenbelasting op basis van het bruto-inkomen van een alleenstaande zonder kinderen die 100% van het gemiddelde inkomen verdient",
+  "textNote": "Effectieve inkomstenbelasting gebaseerd op het bruto-inkomen van een alleenstaande zonder kinderen die 100% van het gemiddelde inkomen verdient",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

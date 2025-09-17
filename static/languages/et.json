@@ -1,12 +1,12 @@
 {
-  "heading": "Kuidas erineb üksikisiku tulumaks EL 27s?",
-  "subheading": "2023. aastal on Euroopa Liidu keskmine efektiivne üksikisiku tulumaks 17,3% (ilma sotsiaalmakseta)",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "keskmine üksikisiku tulumaks",
+  "heading": "Kuidas erineb tulumaks EL 27 riikides?",
+  "subheading": "2023. aastal oli Euroopa Liidu keskmine efektiivne tulumaks 17,3% (välja arvatud sotsiaalkindlustusmaksed).",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "keskmine tulumaks",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Efektiivne üksikisiku tulumaks, mis põhineb üksiku lasteta inimese brutotöötasul, teenides 100% keskmisest töötasust",
+  "textNote": "Efektiivne tulumaks, mis põhineb vallalise ilma lasteta isiku brutotulul, kui ta teenib 100% keskmisest sissetulekust",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

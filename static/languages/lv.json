@@ -1,13 +1,13 @@
 {
   "heading": "Kā atšķiras iedzīvotāju ienākuma nodoklis ES 27 valstīs?",
-  "subheading": "2023. gadā vidējais efektīvais iedzīvotāju ienākuma nodoklis Eiropas Savienībā ir 17,3% (bez sociālajām iemaksām)",
-  "legend1": "Nav pieejami dati",
+  "subheading": "2023. gadā vidējais efektīvais iedzīvotāju ienākuma nodoklis Eiropas Savienībā bija 17,3% (neskaitot sociālās iemaksas).",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "vidējais iedzīvotāju ienākuma nodoklis",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Efektīvs iedzīvotāju ienākuma nodoklis, pamatojoties uz vienas personas bez bērniem bruto ienākumiem, kas gūst 100% no vidējās izpeļņas",
+  "textNote": "Efektīvais iedzīvotāju ienākuma nodoklis, kas balstīts uz vienas personas bez bērniem bruto ienākumiem, ja tā saņem 100% no vidējās algas",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

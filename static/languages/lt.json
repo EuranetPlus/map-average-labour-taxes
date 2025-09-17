@@ -1,13 +1,13 @@
 {
-  "heading": "Kaip skiriasi gyventojų pajamų mokestis 27 ES šalyse?",
-  "subheading": "2023 metais vidutinis efektyvus gyventojų pajamų mokestis Europos Sąjungoje yra 17,3% (neįskaitant socialinių įmokų)",
+  "heading": "Kuo skiriasi asmeninių pajamų mokestis ES 27 šalyse?",
+  "subheading": "2023 m. vidutinis efektyvus gyventojų pajamų mokestis Europos Sąjungoje yra 17,3 % (neskaitant socialinių įmokų).",
   "legend1": "Nėra duomenų",
-  "tooltip1": "vidutinio gyventojų pajamų mokesčio",
+  "tooltip1": "vidutinis gyventojų pajamų mokestis",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Efektyvus gyventojų pajamų mokestis nuo vieno, neturinčio vaikų, bruto darbo užmokesčio, uždirbančio 100% vidutinio darbo užmokesčio",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Efektyvus asmeninių pajamų mokestis, pagrįstas vienišų asmenų be vaikų, uždirbančių 100 % vidutinių pajamų, bendrosiomis pajamomis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

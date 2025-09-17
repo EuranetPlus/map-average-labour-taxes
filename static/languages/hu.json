@@ -1,13 +1,13 @@
 {
   "heading": "Hogyan változik a személyi jövedelemadó az EU27-ben?",
-  "subheading": "2023-ban az átlagos tényleges személyi jövedelemadó az Európai Unióban 17,3% (társadalomjárulék nélkül)",
-  "legend1": "Nincs adat",
+  "subheading": "2023-ban az Európai Unióban az átlagos effektív személyi jövedelemadó 17,3% volt (a társadalombiztosítási járulékok nélkül).",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "átlagos személyi jövedelemadó",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Hatékony személyi jövedelemadó az átlagkereset 100%-át kereső gyermektelen egyedülálló személy bruttó keresete alapján",
+  "textNote": "A gyermektelen, egyedülálló személy bruttó keresetén alapuló effektív személyi jövedelemadó, amely az átlagkereset 100%-át keresi",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

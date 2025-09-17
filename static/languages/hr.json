@@ -1,13 +1,13 @@
 {
-  "heading": "Kako se razlikuje porez na dohodak u EU27?",
-  "subheading": "U 2023. prosječni efektivni porez na osobni dohodak u Europskoj uniji iznosi 17,3% (bez socijalnih doprinosa)",
+  "heading": "Kako se porez na dohodak u EU27 razlikuje?",
+  "subheading": "U 2023. godini prosječna efektivna stopa poreza na dohodak u Europskoj uniji iznosi 17,3% (isključujući socijalne doprinose)",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "prosječni porez na osobni dohodak",
+  "tooltip1": "prosječni porez na dohodak",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Efektivni porez na dohodak na temelju bruto plaće samca bez djece koja ostvaruje 100% prosječne plaće",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Efektivni porez na dohodak temeljen na bruto zaradi samca bez djece koji zarađuje 100% prosječne zarade",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

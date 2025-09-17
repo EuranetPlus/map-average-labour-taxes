@@ -1,13 +1,13 @@
 {
-  "heading": "Miten henkilökohtainen tulovero vaihtelee EU27:ssä?",
-  "subheading": "Vuonna 2023 Euroopan unionin keskimääräinen tosiasiallinen tulovero on 17,3 % (ilman sosiaaliturvamaksuja)",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "keskimääräinen tulovero",
+  "heading": "Miten henkilökohtainen tuloverotus vaihtelee EU27-maissa?",
+  "subheading": "Vuonna 2023 keskimääräinen efektiivinen henkilökohtainen tulovero Euroopan unionissa on 17,3 % (ilman sosiaaliturvamaksuja).",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "keskimääräinen henkilökohtainen tulovero",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Huom",
-  "textNote": "Tehokas henkilökohtainen tulovero, joka perustuu 100 % keskiansiosta ansaitsevan lapsettoman henkilön bruttoansioihin",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Efektiivinen henkilökohtainen tulovero, joka perustuu lapsettoman yksin asuvan henkilön bruttoansioihin, kun hän ansaitsee 100 % keskimääräisistä ansioista",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

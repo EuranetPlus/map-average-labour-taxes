@@ -1,12 +1,12 @@
 {
-  "heading": "Wie unterscheidet sich die Einkommensteuer in der EU27?",
+  "heading": "Wie variiert die Einkommensteuer in der EU27?",
   "subheading": "Im Jahr 2023 beträgt die durchschnittliche effektive Einkommensteuer in der Europäischen Union 17,3 % (ohne Sozialbeiträge).",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "durchschnittliche Einkommensteuer",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Effektive Einkommensteuer auf der Grundlage des Bruttoeinkommens einer alleinstehenden Person ohne Kinder, die 100 % des Durchschnittseinkommens verdient",
+  "textNote": "Effektive Einkommensteuer basierend auf dem Bruttoeinkommen einer alleinstehenden Person ohne Kinder, die 100 % des Durchschnittseinkommens verdient",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
   "textCountryClick": "Klicken Sie hier für weitere Informationen"

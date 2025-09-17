@@ -1,13 +1,13 @@
 {
-  "heading": "Cum variază impozitul pe venitul personal în UE27?",
-  "subheading": "În 2023, impozitul mediu efectiv pe venitul personal în Uniunea Europeană este de 17,3% (excluzând contribuțiile sociale)",
-  "legend1": "Nu există date disponibile",
-  "tooltip1": "impozitul pe venitul personal mediu",
+  "heading": "Cum variază impozitul pe venitul persoanelor fizice în UE-27?",
+  "subheading": "În 2023, impozitul mediu efectiv pe venitul persoanelor fizice în Uniunea Europeană este de 17,3% (excluzând contribuțiile sociale)",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "impozit mediu pe venitul persoanelor fizice",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Impozitul efectiv pe venitul personal bazat pe câștigul brut al unei singure persoane fără copii care câștigă 100% din câștigul mediu",
+  "textNote": "Impozitul efectiv pe venitul persoanelor fizice bazat pe venitul brut al unei persoane singure fără copii care câștigă 100% din venitul mediu",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

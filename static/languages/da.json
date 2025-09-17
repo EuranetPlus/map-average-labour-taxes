@@ -1,13 +1,13 @@
 {
-  "heading": "Hvordan varierer personlig indkomstskat i EU27?",
-  "subheading": "I 2023 er den gennemsnitlige effektive personlige indkomstskat i EU 17,3 % (eksklusive sociale bidrag)",
-  "legend1": "Ingen tilgængelige data",
+  "heading": "Hvordan varierer den personlige indkomstskat i EU27?",
+  "subheading": "I 2023 er den gennemsnitlige effektive personlige indkomstskat i Den Europæiske Union 17,3 % (eksklusive sociale bidrag)",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "gennemsnitlig personlig indkomstskat",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
   "textNote": "Effektiv personlig indkomstskat baseret på bruttoindkomsten for en enlig person uden børn, der tjener 100 % af den gennemsnitlige indkomst",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

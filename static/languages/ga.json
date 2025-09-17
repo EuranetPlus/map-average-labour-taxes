@@ -1,13 +1,13 @@
 {
-  "heading": "Conas a athraíonn cáin ioncaim phearsanta san AE27?",
-  "subheading": "In 2023, is é 17.3% an mheáncháin ioncaim phearsanta éifeachtach san Aontas Eorpach (gan ranníocaíochtaí sóisialta a áireamh)",
+  "heading": "Cén chaoi a n-athraíonn cáin ioncaim phearsanta san AE27?",
+  "subheading": "Sa bhliain 2023, is é 17.3% an meáncháin ioncaim phearsanta éifeachtach san Aontas Eorpach (gan ranníocaíochtaí sóisialta san áireamh).",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "meáncháin ioncaim phearsanta",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
   "textNote": "Cáin ioncaim phearsanta éifeachtach bunaithe ar olltuilleamh duine singil gan leanaí a thuilleann 100% den mheántuilleamh",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=ga",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -2,12 +2,12 @@
   "heading": "¿Cómo varía el impuesto sobre la renta de las personas físicas en la UE27?",
   "subheading": "En 2023, el impuesto sobre la renta personal efectivo medio en la Unión Europea es del 17,3% (excluidas las cotizaciones sociales)",
   "legend1": "No hay datos disponibles",
-  "tooltip1": "impuesto sobre la renta personal medio",
+  "tooltip1": "impuesto sobre la renta personal promedio",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Impuesto sobre la renta personal efectivo basado en los ingresos brutos de una persona soltera sin hijos que gana el 100% de los ingresos medios",
+  "textNote": "Impuesto sobre la renta personal efectivo basado en los ingresos brutos de una persona soltera sin hijos que gane el 100% de los ingresos promedio",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
 }

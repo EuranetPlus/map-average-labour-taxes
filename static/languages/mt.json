@@ -1,13 +1,13 @@
 {
   "heading": "Kif tvarja t-taxxa fuq id-dħul personali fl-UE27?",
-  "subheading": "Fl-2023, il-medja effettiva tat-taxxa fuq id-dħul personali fl-Unjoni Ewropea hija 17.3% (esklużi l-kontribuzzjonijiet soċjali)",
+  "subheading": "Fl-2023, it-taxxa effettiva medja fuq id-dħul personali fl-Unjoni Ewropea hija ta’ 17.3% (esklużi l-kontribuzzjonijiet soċjali)",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "taxxa fuq id-dħul personali medju",
+  "tooltip1": "taxxa medja fuq id-dħul personali",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Taxxa effettiva fuq id-dħul personali bbażata fuq il-qligħ gross ta' persuna waħda mingħajr tfal li jaqilgħu 100% tal-qligħ medju",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Taxxa effettiva fuq id-dħul personali bbażata fuq il-qligħ gross ta' persuna waħedha mingħajr tfal li taqla' 100% tal-qligħ medju",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/earn_nt_net/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }
